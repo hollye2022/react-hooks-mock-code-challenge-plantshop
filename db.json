@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "My favorite",
+      "image": "https://www.gardeningknowhow.com/wp-content/uploads/2020/11/yellow-sunflower-field.jpg",
+      "price": "520",
+      "id": 8
+    },
+    {
+      "name": "My favorite",
+      "image": "https://www.gardeningknowhow.com/wp-content/uploads/2020/11/yellow-sunflower-field.jpg",
+      "price": "520",
+      "id": 9
+    },
+    {
+      "name": "My favorite",
+      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
+      "price": "0.03",
+      "id": 10
     }
   ]
 }
